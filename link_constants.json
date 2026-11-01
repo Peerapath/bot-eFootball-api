@@ -1,0 +1,16 @@
+{
+  "payload": {
+    "app_version": "11.1.1",
+    "challenge_hash": {
+      "08178c2cf7fe9dd506b198bbf019b9ae": "097679ed613607ef3d17b04e51784568",
+      "17c5a3db000843c73608cb9981ced8ab": "0c012ed1fcfa7f528060378ae3826d1c",
+      "950a62c510bdf7900b7dd70a8475e396": "e8bbc34f90e46bbbbb6ef7a7a74df3ba"
+    },
+    "client_version": "6.1.1",
+    "issued_at": 1793523637,
+    "proto_version": "6.1.1",
+    "s_keyword": "6f6b047e6452185c",
+    "seq": 1
+  },
+  "sig": "tC3FSHRDLuwv80jHq1kUkm7tiWiMD7GVd0Ekv/iS3gSYkbkvityoz3++ONIvsoXQbNdtkU4oqYwzoTG5WuEdAw=="
+}
