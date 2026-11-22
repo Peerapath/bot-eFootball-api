@@ -1,7 +1,7 @@
 {
   "game_version": "11.1.1",
-  "sha256": "abd4b03591850a7fe2a9800f50fe882cde0fac1fbab0ed230da921fc91eb15e6",
-  "sig": "pabCX75NrhSVDAW0CfRO7rvb0wadnYVTE+W2AuAukEOu4kH9sd28NbaA2kONpSFLCDSsIjCfFnMdU6E2K+ogCw==",
-  "url": "https://github.com/Peerapath/bot-eFootball-api/releases/download/v11.1.1-b7/eFootball_Control-11.1.1%2B7.zip",
-  "version": "11.1.1+7"
+  "sha256": "168f77f5c6452e011db967c841d1b655a2e0ba6529e5825e6d3e83c6ecb78a35",
+  "sig": "qgg/UfmQUBTeSvbjymu8no3updqsugNNM5hHOZNQzHGiFaKqROewEt0UHzVzrk4zPwq8LIU0HpnO1oXcK1t3Bw==",
+  "url": "https://github.com/Peerapath/bot-eFootball-api/releases/download/v11.1.1-b8/eFootball_Control-11.1.1%2B8.zip",
+  "version": "11.1.1+8"
 }
